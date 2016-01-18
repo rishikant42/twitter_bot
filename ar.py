@@ -4,10 +4,6 @@ from time import sleep
 import ipdb
 import os
 
-##CONSUMER_KEY = 'ECmRusKhD3g5vxtu6oqDOeu3f'
-##CONSUMER_SECRET = 'P35jC3qpGKRrmVQANmXhndCuD3KIEvXxy3FJdMLlTO4hraU5wr'
-##ACCESS_TOKEN = '2762195401-Pp54Nr2yo1SU97EotbOEiQPWsnwlDT9YVywU0dW'
-##ACCESS_TOKEN_SECRET = 'b421kMofhXWOosfKpu17yHhhLxXusBeBHoQlmSHcKzVc9'
 
 
 CONSUMER_KEY = os.environ['CONSUMER_KEY'] 
